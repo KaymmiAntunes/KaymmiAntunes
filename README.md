@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KaymmiAntunes;
+- 👀 I’m interested in Python Language, Data Science and Machine Learning;
+- 🌱 I’m currently learning Python Language, Data Science and Machine Learning;
+- 💞️ I’m looking to collaborate on with effective solutions for greater efficiency and development;
+- 📫 How to reach me www.linkedin.com/in/kaymmi-antunes-b383a240
